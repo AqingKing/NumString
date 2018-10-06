@@ -1,0 +1,3 @@
+C:/Users/Aqing/CLionProjects/NumString/cmake-build-debug/CMakeFiles/NumString.dir
+C:/Users/Aqing/CLionProjects/NumString/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aqing/CLionProjects/NumString/cmake-build-debug/CMakeFiles/rebuild_cache.dir
